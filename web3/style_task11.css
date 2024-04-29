@@ -1,0 +1,29 @@
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+p {
+    font-style: italic;
+}
+
+p:first-letter {
+    font-size: 150%;
+    font-weight: bold;
+    color: purple;
+    float: left;
+    margin-right: 5px;
+    line-height: 1;
+}

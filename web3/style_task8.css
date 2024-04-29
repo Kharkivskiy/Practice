@@ -1,0 +1,19 @@
+.bold{
+    font-weight: bold;
+    background-color: blueviolet;
+}
+
+.italic{
+    font-style: italic;
+    background-color:aqua
+}
+
+.underlined{
+    text-decoration: underline;
+    background-color:blue
+}
+
+.line-throught{
+    text-decoration: line-through;
+    background-color:brown
+}

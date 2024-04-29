@@ -1,0 +1,16 @@
+.p1{
+    background-image: url('style_web3/mouse.jpg');
+    width: 200px;
+    height: 200px;
+ }
+ .p2{
+    background-color: #555555;
+    color: #ffffff;
+ }
+ .p3{
+    background-color: greenyellow;
+ }
+ .p4{
+    background-color: rgb(197, 3, 110);
+ }
+ 
